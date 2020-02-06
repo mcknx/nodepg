@@ -1,0 +1,24 @@
+{
+  "name": "nodepg",
+  "version": "1.0.0",
+  "description": "```js\r  console.log(“asdfa”)\r  ```\r  ## In case of error [Type of error], here are the steps that you need to consider:\r  1. Step 1\r  2. Step 2",
+  "main": "index.js",
+  "scripts": {
+    "test-nodepg" : "node index.js",
+    "asma-prob1" : "node asma-prob1.js",
+    "asma-prob2" : "node asma-prob2.js",
+    "asma-prob3" : "node asma-prob3.js",
+    "asma-prob4" : "node asma-prob4.js",
+    "asma-prob5" : "node asma-prob5.js",
+    "asma-prob6" : "node asma-prob6.js",
+    "asma-prob7" : "node asma-prob7.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  }
+}
